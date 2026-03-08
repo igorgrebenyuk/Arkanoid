@@ -1,0 +1,16 @@
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\bin\Debug\net10.0-windows\ArkanoidGame.exe
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\bin\Debug\net10.0-windows\ArkanoidGame.deps.json
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\bin\Debug\net10.0-windows\ArkanoidGame.runtimeconfig.json
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\bin\Debug\net10.0-windows\ArkanoidGame.dll
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\bin\Debug\net10.0-windows\ArkanoidGame.pdb
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.Form1.resources
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.csproj.GenerateResource.cache
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.AssemblyInfoInputs.cache
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.AssemblyInfo.cs
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.csproj.CoreCompileInputs.cache
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.dll
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\refint\ArkanoidGame.dll
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.pdb
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ArkanoidGame.genruntimeconfig.cache
+C:\8911\it kurs\ArkanoidGame\ArkanoidGame\obj\Debug\net10.0-windows\ref\ArkanoidGame.dll
