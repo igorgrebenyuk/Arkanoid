@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\8911\\it kurs\\ArkanoidGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|c:\\8911\\it kurs\\arkanoidgame\\arkanoidgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|solutionrelative:arkanoidgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|c:\\8911\\it kurs\\arkanoidgame\\arkanoidgame\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|solutionrelative:arkanoidgame\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|c:\\8911\\it kurs\\arkanoidgame\\arkanoidgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|solutionrelative:arkanoidgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|c:\\8911\\it kurs\\arkanoidgame\\arkanoidgame\\arkanoidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|solutionrelative:arkanoidgame\\arkanoidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|c:\\8911\\it kurs\\arkanoidgame\\arkanoidgame\\arkanoidform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|solutionrelative:arkanoidgame\\arkanoidform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|c:\\8911\\it kurs\\arkanoidgame\\arkanoidgame\\arkanoidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82235A90-7895-A43B-A78E-E489EAA01DA4}|ArkanoidGame\\ArkanoidGame.csproj|solutionrelative:arkanoidgame\\arkanoidform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +26,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\Form1.cs",
-              "RelativeDocumentMoniker": "ArkanoidGame\\Form1.cs",
-              "ToolTip": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\Form1.cs",
-              "RelativeToolTip": "ArkanoidGame\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ArkanoidForm.cs",
+              "DocumentMoniker": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\ArkanoidForm.cs",
+              "RelativeDocumentMoniker": "ArkanoidGame\\ArkanoidForm.cs",
+              "ToolTip": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\ArkanoidForm.cs*",
+              "RelativeToolTip": "ArkanoidGame\\ArkanoidForm.cs*",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAwwNUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T19:09:52.648Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArkanoidForm.Designer.cs",
+              "DocumentMoniker": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\ArkanoidForm.Designer.cs",
+              "RelativeDocumentMoniker": "ArkanoidGame\\ArkanoidForm.Designer.cs",
+              "ToolTip": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\ArkanoidForm.Designer.cs*",
+              "RelativeToolTip": "ArkanoidGame\\ArkanoidForm.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:31:00.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\GameSettings.cs",
+              "RelativeDocumentMoniker": "ArkanoidGame\\GameSettings.cs",
+              "ToolTip": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\GameSettings.cs*",
+              "RelativeToolTip": "ArkanoidGame\\GameSettings.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:29:46.215Z",
               "EditorCaption": ""
             },
             {
@@ -56,12 +90,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\Form1.cs",
-              "RelativeDocumentMoniker": "ArkanoidGame\\Form1.cs",
-              "ToolTip": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ArkanoidGame\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 3,
+              "Title": "ArkanoidForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\ArkanoidForm.cs",
+              "RelativeDocumentMoniker": "ArkanoidGame\\ArkanoidForm.cs",
+              "ToolTip": "C:\\8911\\it kurs\\ArkanoidGame\\ArkanoidGame\\ArkanoidForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "ArkanoidGame\\ArkanoidForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T16:59:49.959Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
