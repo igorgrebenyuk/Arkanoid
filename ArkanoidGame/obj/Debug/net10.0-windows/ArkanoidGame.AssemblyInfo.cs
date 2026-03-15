@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArkanoidGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a101ebff530016875cf9cfa6084f224e9f2a411")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32a19a7a7476b2f7dcd1bde9571b31e693cf0037")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArkanoidGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArkanoidGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
